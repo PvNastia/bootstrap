@@ -1,0 +1,148 @@
+.logo>h2{
+    font-size: 35px;
+   font-weight: 800;
+padding-top: 10px;
+   color: #202053;
+}
+.logo>p{
+    font-size: 15px;
+    font-weight: 500;
+line-height: 10px;
+    color: #202053;
+
+}
+.nav-item>a{
+    /* margin-left: 10px; */
+    font-size: 20px;
+    font-weight: 400;
+line-height: 30px;
+    color: #202053;
+}
+.navbar-nav{
+    margin-left: 20px;
+    gap: 20px;
+    width: 615px;
+}
+.btn-outline-success{
+background-color: #EF3959;
+color:#ffffff;
+border-color: #EF3959;
+ width: 200px;
+}
+.btn-outline-success:hover{
+    background-color: #ffffff;
+    color:#EF3959;
+    border-color: #EF3959;
+     width: 200px;
+    }
+/* -----------------part1------------------- */
+.part1{
+    margin-top: 40px;
+    justify-content: center;
+    
+    margin-bottom: 60px;
+
+}
+.part1-text{
+    width: 619px;
+flex-direction: column;
+    gap: 30px;
+}
+.part1-text>h1{
+    width: 576px;
+    font-size: 54px;
+    font-weight: 800;
+line-height: 73px;
+    color: #202053;
+}
+.part1-text>p{
+    width: 515px;
+    font-size: 20px;
+    font-weight: 400;
+line-height: 35px;
+    color: #202053;
+}
+.btn-outline-danger{
+    background-color: #EF3959;
+color:#ffffff;
+border-color: #EF3959;
+ width: 200px;
+
+ font-size: 24px;
+ font-weight: 500;
+line-height: 32px;
+ padding: 15px 20px;
+}
+.btn-outline-danger:hover{
+    background-color: #ffffff;
+    color:#EF3959;
+    border-color: #EF3959;
+     width: 200px;
+}
+.part1-img{
+height: 480px;
+}
+/* ---------------part2------------------*/
+.part2{    
+margin: 0 auto;
+
+max-width: 1320px;
+}
+
+.part2-cards{
+    gap: 125px;
+    width: 1153px;
+    margin-left: 60px;
+    flex-wrap: wrap;
+}
+.card-text{
+    font-size: 18px;
+    font-weight: 500;
+line-height: 26px;
+    color: #202053;
+}
+.btn-primary{
+    background-color: #EF3959;
+    color:#ffffff;
+    border-color: #EF3959;
+     width: 150px;
+    
+     font-size: 24px;
+     font-weight: 500;
+    line-height: 32px;
+     padding: 10px 20px;
+}
+.btn-primary:hover{
+    background-color: #ffffff;
+    color:#EF3959;
+    border-color: #EF3959;
+}
+.card-title{
+    
+    font-size: 30px;
+    font-weight: 700;
+line-height: 50px;
+    color: #202053;
+}
+.part2-text{
+    text-align: center;
+}
+.part2-text>h2{
+    font-size: 56px;
+    font-weight: 500;
+line-height: 72px;
+    color: #202053;
+}
+.part2-text>p{
+    font-size: 24px;
+    font-weight: 500;
+line-height: 36px;
+    color: #404040;
+}
+/* ------------------basic--------------- */
+a{
+    text-decoration: none;
+}
+.flex{
+    display: flex;
+}
